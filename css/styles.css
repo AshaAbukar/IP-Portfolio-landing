@@ -1,0 +1,22 @@
+h3 {
+  color: teal;
+  text-align: left;
+}
+h4 {
+  color: teal;
+}
+p {
+  text-align: justify;
+  font-size:  17px;
+}
+ol {
+  color:  purple;
+}
+ul {
+  color:  purple;
+}
+body {
+  background-color:  lightblue;
+  font-family:  sans-serif;
+  line-height: 25px;
+}
