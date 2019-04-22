@@ -1,5 +1,5 @@
 # Programming portfolio
-written by: Aisha Ahmed
+
 ## Description
 This is a programming portfolio that includes details about my personal information and some projects that i have worked on. The purpose of this project is to demonstrates my web development skills.
 
@@ -39,3 +39,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+written by: Aisha Ahmed
