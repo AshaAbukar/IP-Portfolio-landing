@@ -3,29 +3,7 @@ header img {
   width: 400px;
   margin-top: -120px;
 }
-/* header p {
+header p {
   font-size: 24px;
   color: white;
 }
-.clear {
-  clear: both;
-}
- h3 {
-  color: black;
-  text-align: left;
-}
-p {
-  text-align: justify;
-  font-size:  17px;
-}
-body {
-  background-color:  teal;
-  font-family:  sans-serif;
-}
-main {
-  display: flex;
-  justify-content: space-around;
-}
-.about, .projects, .interest {
-  width: 30%;
-} */
