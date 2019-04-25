@@ -13,3 +13,11 @@ header p {
  h3 {
   text-align: left;
 }
+p {
+  text-align: justify;
+  font-size:  17px;
+}
+body {
+  background-color:  teal;
+  font-family:  sans-serif;
+}
