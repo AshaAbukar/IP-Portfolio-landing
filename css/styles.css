@@ -21,3 +21,10 @@ body {
   background-color:  teal;
   font-family:  sans-serif;
 }
+main {
+  display: flex;
+  justify-content: space-around;
+}
+.about, .projects, .interest {
+  width: 30%;
+}
