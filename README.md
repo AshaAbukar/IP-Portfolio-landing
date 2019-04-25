@@ -1,5 +1,5 @@
 # Programming portfolio
-
+Author: Aisha Abukar
 ## Description
 This is a programming portfolio that includes details about my personal information and some projects that i have worked on. The purpose of this project is to demonstrates my web development skills.
 
@@ -11,16 +11,17 @@ To install git enter the following commands in the command line
 ** git config --global user.name - put your username
 ** git config --global user.email - put your email
 {install atom to edit this file and make changes}
-## known bugs - none
-{to push changes to GitHub enter: git push origin master}
+## known bugs
+There were no known bugs at the time of writting this code
+to push changes to GitHub enter: git push origin master
 ## Technology used
-{The languages used in this web page are HTML/CSS}
+The languages used in this web page are HTML/CSS
 ## contact information
 {email: aisha63abubakar@gmail.com}
 ## license
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 20/04/2019 AishaAbukar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,5 +40,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-written by: Aisha Ahmed
